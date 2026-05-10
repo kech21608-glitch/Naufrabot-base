@@ -1,0 +1,29 @@
+{
+  "name": "zoufan-system",
+  "version": "3.0.0",
+  "description": "WhatsApp Bot by .مم",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.21",
+    "awesome-phonenumber": "^5.9.0",
+    "axios": "^1.6.7",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "file-type": "^16.5.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.3.0",
+    "jsdom": "^26.0.0",
+    "node-fetch": "^2.6.11",
+    "node-webpmux": "^3.1.1",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.32.6",
+    "canvas": "^2.10.2",
+    "form-data": "^4.0.0"
+  },
+  "author": ".مم",
+  "license": "ISC"
+}
